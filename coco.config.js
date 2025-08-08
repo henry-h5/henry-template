@@ -1,8 +1,8 @@
 module.exports = {
-  name: 'coco-template',
+  name: 'henry-template',
   templateName: '营销活动',
   author: 'muwoo',
   snapshot: 'https://cdn.img.snapshot.png',
-  gitUrl: 'coco-h5/coco-template',
+  gitUrl: 'henry-h5/coco-template',
   projectType: '0'
 };
